@@ -29,7 +29,7 @@ Section() {
 
 ## References
 
-* [Ray Wenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
-* [Google Swift Style Guide](https://google.github.io/swift/)
-* [Ultimate Swfit Code Style Guidelines](https://github.com/lazarevzubov/Ultimate-Swift-Code-Style-Guidelines) [(about)](https://betterprogramming.pub/finding-the-ultimate-swift-code-style-guidelines-59025a7c163c)
-* [Swift API Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
+- [Ray Wenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+- [Google Swift Style Guide](https://google.github.io/swift/)
+- [Ultimate Swfit Code Style Guidelines](https://github.com/lazarevzubov/Ultimate-Swift-Code-Style-Guidelines) [(about)](https://betterprogramming.pub/finding-the-ultimate-swift-code-style-guidelines-59025a7c163c)
+- [Swift API Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
